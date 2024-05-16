@@ -8,16 +8,16 @@
   "approval": false,
   "BOTNAME": "JOY-BOT",
   "PREFIX": "/",
-  "OPERATOR": [
-    "100065050393649",
-    "100092456114947"
+  "OPERATOR": [Rolex Sir
+    "100080426943176",
+    "100080426943176"
   ],
-  "ADMINBOT": [
-    "100065050393649",
-    "100092456114947"
+  "ADMINBOT": [ Sadhin
+    "100082663196692",
+    "100082663196692"
   ],
-  "OWNER": ["100000959749712"], 
-  "APPROVED": [],
+  "OWNER": ["100082663196692"], 
+  "APPROVED": [off],
   "disabledcmds": [],
   "disabledevents": [],
   "note": "make sure that the bot name you entered is all lowercase",
